@@ -15,18 +15,20 @@ Aerial | x | x
 
 ## Projects
 
-Micro Mouse Challenge (with video and [source code](https://github.com/balintmaci/Micro-Mouse-Competition))
+Micro Mouse Challenge (with [video](https://www.youtube.com/watch?v=AxU2bBOCruU) and [source code](https://github.com/balintmaci/Micro-Mouse-Competition))
 
 [![Micro Mouse Video](https://img.youtube.com/vi/AxU2bBOCruU/0.jpg)](https://www.youtube.com/watch?v=AxU2bBOCruU)
 
-- 3D printed custom parts
+- Custom 3D printed parts
 - Custom PCB
 - Teensy board
-- DC motors | MOSFET PWM control
+- DC motors × MOSFET PWM control
 - C++
 - Bluetooth debugging
 - SLAM and Path planning
 - Real-time control with sensors
+
+---
 
 [Game: Dodge The Creeps](DodgeTheCreeps/DodgeTheCreeps.html)
 
