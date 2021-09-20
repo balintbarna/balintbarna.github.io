@@ -47,7 +47,7 @@ Python × C++ × TypeScript × Java × C# × GDScript × Juypter × Javascript �
     - Control software
     - Communication software
     - User interaction software
-- 2 years as a freelancer developer
+- 2 years as a freelance engineer
   - Working with various companies as clients
   - Embedded software
   - Mechanical engineering
