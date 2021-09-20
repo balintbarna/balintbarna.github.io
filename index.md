@@ -8,6 +8,19 @@ My name is Bálint, I'm an Engineer with a focus on Robotics. I developed softwa
 
 ## Projects
 
+Micro Mouse Challenge (with video and [source code](https://github.com/balintmaci/Micro-Mouse-Competition))
+
+[![Micro Mouse Video](https://img.youtube.com/vi/AxU2bBOCruU/0.jpg)](https://www.youtube.com/watch?v=AxU2bBOCruU)
+
+- 3D printed custom parts
+- Custom PCB
+- Teensy board
+- DC motors | MOSFET PWM control
+- C++
+- Bluetooth debugging
+- SLAM and Path planning
+- Real-time control with sensors
+
 [Game: Dodge The Creeps](DodgeTheCreeps/DodgeTheCreeps.html)
 
 ## Skills
