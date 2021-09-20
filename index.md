@@ -4,7 +4,14 @@
 &nbsp;
 [<img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="My LinkedIn" width="30"/>](https://www.linkedin.com/in/balintbarna/)
 
-My name is Bálint, I'm an Engineer with a focus on Robotics. I developed software + hardware solutions for industrial, mobile, and aerial robotics. Graduated with a MSc in Robotics from SDU in Odense, Denmark.
+My name is Bálint, I'm an Engineer with a focus on Robotics. I develop software × hardware solutions for industrial, mobile, and aerial robotics. See visualization:
+
+&nbsp; | Software | Hardware
+- | - | -
+Industrial | x | x
+Mobile | x | x
+Aerial | x | x
+
 
 ## Projects
 
