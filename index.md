@@ -12,6 +12,11 @@ My name is Bálint, I'm an Engineer with a focus on Robotics. I developed softwa
 
 ## Skills
 
+Robotics × System Architecture × Software Development × Engineering  
+Control Systems × Automation × Computer Vision × Deep Learning × FPGA  
+ROS × PX4 × Linux × Arduino × Embedded Systems × Git × Cmake × OpenCV × Godot × Node.js × Angular × Vivado/HLS  
+Python × C++ × TypeScript × Java × C# × GDScript × Juypter × Javascript × VHDL
+
 ## Experience
 
 - 4 years @ OnRobot
