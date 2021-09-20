@@ -8,9 +8,9 @@ My name is Bálint, I'm an Engineer with a focus on Robotics. I develop software
 
 &nbsp; | Software | Hardware
 :-:|:-:|:-:
-Industrial | x | x
-Mobile | x | x
-Aerial | x | x
+Industrial | X | -
+Mobile | X | x
+Aerial | X | x
 
 
 ## Projects
