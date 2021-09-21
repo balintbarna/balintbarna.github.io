@@ -19,10 +19,10 @@ Micro Mouse Challenge (with [video](https://www.youtube.com/watch?v=AxU2bBOCruU)
 - Custom PCB
 - Teensy board
 - DC motors × MOSFET PWM control
-- C++
 - Bluetooth debugging
 - SLAM and Path planning
 - Real-time control with sensors
+- C++ (Embedded)
 
 ---
 
@@ -44,10 +44,26 @@ Robotics and Computer Vision Semester Project ([source](https://github.com/balin
 - Interpolation
 - Reachability optimization
 - Integration with user interface
+- RobWork, OpenCV, Point Cloud Library, C++
 
 ---
 
 Traffic Analysis Computer Vision Project ([source](https://github.com/balintmaci/Traffic-Analysis-Computer-Vision))
+
+<img src="traffic-analysis/video_stream.png" alt="Video Stream" height="100">
+<img src="traffic-analysis/warped.png" alt="Warped Stream" height="100">
+<img src="traffic-analysis/masked.png" alt="Masked Stream" height="100">
+<img src="traffic-analysis/filtered.png" alt="Filtered Stream" height="100">
+<img src="traffic-analysis/tracked.png" alt="Tracked Stream" height="100">
+
+- Real-time video processing
+- Homography transform
+- Advanced filtering
+- Clustering
+- Tracking
+- OpenCV, Python
+
+---
 
 Cryptograhpy Challenge ([source](https://github.com/balintmaci/Cryptography-Challenge))
 
