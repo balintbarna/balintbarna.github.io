@@ -65,6 +65,15 @@ Traffic Analysis Computer Vision Project &nbsp; [<img src="https://upload.wikime
 
 ---
 
+Sokoban AI Semester Project &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Font_Awesome_5_brands_youtube-square.svg" alt="Video" height="20"/>](https://www.youtube.com/watch?v=Q1BFzPb1I8g) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Sokoban-AI-Semester-Project)
+
+[![Sokoban Project Video](https://img.youtube.com/vi/Q1BFzPb1I8g/0.jpg)](https://www.youtube.com/watch?v=Q1BFzPb1I8g)
+
+- Controller with sensor feedback, Python
+- Optimal path planning, A*, C++
+
+---
+
 Cryptograhpy Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Cryptography-Challenge)
 
 ![Cryptopals Challenge Illustration](https://laconicwolf.com/wp-content/uploads/2018/05/cryptopals_challenge_6_001.png)
