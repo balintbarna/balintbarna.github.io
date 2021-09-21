@@ -61,7 +61,7 @@ Traffic Analysis Computer Vision Project &nbsp; [<img src="https://upload.wikime
 - Advanced filtering
 - Clustering
 - Tracking
-- OpenCV, Python
+- OpenCV, ROS, Python
 
 ---
 
@@ -80,6 +80,16 @@ Ludo AI Player &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/
 
 - Fully connect neural network implementation in Python
 - Reinforcement learning in simulated matches against other artificial participants
+
+---
+
+Drone Swarm Alignment Project &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Collaborative-Drone-System-Node)
+
+<img src="swarm/drones.png" alt="Swarm Alignment" height="200"/>
+
+- ROS, PX4, MAVROS, Python
+- Gazebo simulation
+- Control using radial distance sensors
 
 ---
 
