@@ -44,7 +44,10 @@ Robotics and Computer Vision Semester Project ([source](https://github.com/balin
 - Interpolation
 - Reachability optimization
 - Integration with user interface
+
 ---
+
+Traffic Analysis Computer Vision Project ([source](https://github.com/balintmaci/Traffic-Analysis-Computer-Vision))
 
 Cryptograhpy Challenge ([source](https://github.com/balintmaci/Cryptography-Challenge))
 
