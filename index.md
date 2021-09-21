@@ -11,13 +11,23 @@ Aerial | X | x
 
 ## Projects
 
+Autonomous Drone Landing Using Vision &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Font_Awesome_5_brands_youtube-square.svg" alt="Video" height="20"/>](https://www.youtube.com/watch?v=haIMd0PNrdU) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Drone-Landing-Using-Accelerated-Vision)
+
+[![Micro Mouse Video](https://img.youtube.com/vi/haIMd0PNrdU/0.jpg)](https://www.youtube.com/watch?v=haIMd0PNrdU)
+
+- ROS, PX4, DPU, PYNQ, ZMQ, Python, Jupyter
+- Deep Neural Network object detection
+- Visual servo using image recognition
+- Computation accelerated with low power FPGA
+- All computation onboard, standalone autonomous operation
+
+---
+
 Micro Mouse Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Font_Awesome_5_brands_youtube-square.svg" alt="Video" height="20"/>](https://www.youtube.com/watch?v=AxU2bBOCruU) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Micro-Mouse-Competition)
 
 [![Micro Mouse Video](https://img.youtube.com/vi/AxU2bBOCruU/0.jpg)](https://www.youtube.com/watch?v=AxU2bBOCruU)
 
-- Custom 3D printed parts
-- Custom PCB
-- Teensy board
+- Custom 3D printed parts, custom PCB, Teensy MCU
 - DC motors × MOSFET PWM control
 - Bluetooth debugging
 - SLAM and Path planning
