@@ -48,7 +48,7 @@ Robotics and Computer Vision Semester Project &nbsp; [<img src="https://upload.w
 
 ---
 
-Traffic Analysis Computer Vision Project ([source](https://github.com/balintmaci/Traffic-Analysis-Computer-Vision))
+Traffic Analysis Computer Vision Project &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Traffic-Analysis-Computer-Vision)
 
 <img src="traffic-analysis/video_stream.png" alt="Video Stream" height="100">
 <img src="traffic-analysis/warped.png" alt="Warped Stream" height="100">
