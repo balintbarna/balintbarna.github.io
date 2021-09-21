@@ -1,4 +1,4 @@
-# Welcome to my portfolio page &nbsp; [<img src="https://github.githubassets.com/favicons/favicon.png" alt="My repositories" height="30"/>](https://github.com/balintmaci?tab=repositories) &nbsp; [<img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="My LinkedIn" height="30"/>](https://www.linkedin.com/in/balintbarna/) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Email" height="30"/>](mailto:balint@kovari.cc)
+# Welcome to my portfolio page &nbsp; [<img src="https://github.githubassets.com/favicons/favicon.png" alt="My repositories" height="30"/>](https://github.com/balintmaci?tab=repositories) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Linkedin_circle.svg" alt="My LinkedIn" height="30"/>](https://www.linkedin.com/in/balintbarna/) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Email" height="30"/>](mailto:balint@kovari.cc)
 
 My name is Bálint, I'm an Engineer with a focus on Robotics. I develop software × hardware solutions for industrial, mobile, and aerial robotics. See visualization:
 
