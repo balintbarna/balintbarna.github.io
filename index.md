@@ -11,7 +11,7 @@ Aerial | X | x
 
 ## Projects
 
-Micro Mouse Challenge (with [video](https://www.youtube.com/watch?v=AxU2bBOCruU) and [source code](https://github.com/balintmaci/Micro-Mouse-Competition))
+Micro Mouse Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Font_Awesome_5_brands_youtube-square.svg" alt="Video" height="20"/>](https://www.youtube.com/watch?v=AxU2bBOCruU) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Micro-Mouse-Competition)
 
 [![Micro Mouse Video](https://img.youtube.com/vi/AxU2bBOCruU/0.jpg)](https://www.youtube.com/watch?v=AxU2bBOCruU)
 
