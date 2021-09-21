@@ -13,7 +13,11 @@ Aerial | X | x
 
 Autonomous Drone Landing Using Vision &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Font_Awesome_5_brands_youtube-square.svg" alt="Video" height="20"/>](https://www.youtube.com/watch?v=haIMd0PNrdU) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Drone-Landing-Using-Accelerated-Vision)
 
-[![Micro Mouse Video](https://img.youtube.com/vi/haIMd0PNrdU/0.jpg)](https://www.youtube.com/watch?v=haIMd0PNrdU)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=haIMd0PNrdU">
+    <img src="https://img.youtube.com/vi/haIMd0PNrdU/0.jpg" alt="Drone Landing Demonstrations" height="200"/>
+  </a>
+</p>
 
 - ROS, PX4, DPU, PYNQ, ZMQ, Python, Jupyter
 - Deep Neural Network object detection
@@ -25,7 +29,11 @@ Autonomous Drone Landing Using Vision &nbsp; [<img src="https://upload.wikimedia
 
 Micro Mouse Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Font_Awesome_5_brands_youtube-square.svg" alt="Video" height="20"/>](https://www.youtube.com/watch?v=AxU2bBOCruU) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Micro-Mouse-Competition)
 
-[![Micro Mouse Video](https://img.youtube.com/vi/AxU2bBOCruU/0.jpg)](https://www.youtube.com/watch?v=AxU2bBOCruU)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=AxU2bBOCruU">
+    <img src="https://img.youtube.com/vi/AxU2bBOCruU/0.jpg" alt="Micro Mouse Video" height="200"/>
+  </a>
+</p>
 
 - Custom 3D printed parts, custom PCB, Teensy MCU
 - DC motors × MOSFET PWM control
@@ -60,7 +68,9 @@ Robotics and Computer Vision Semester Project &nbsp; [<img src="https://upload.w
 
 Traffic Analysis Computer Vision Project &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Traffic-Analysis-Computer-Vision)
 
-<img src="traffic-analysis/video_stream.png" alt="Video Stream" height="100"> &nbsp; <img src="traffic-analysis/warped.png" alt="Warped Stream" height="100"> &nbsp; <img src="traffic-analysis/masked.png" alt="Masked Stream" height="100"> &nbsp; <img src="traffic-analysis/filtered.png" alt="Filtered Stream" height="100"> &nbsp; <img src="traffic-analysis/tracked.png" alt="Tracked Stream" height="100">
+<p align="center">
+  <img src="traffic-analysis/video_stream.png" alt="Video Stream" height="100"> &nbsp; <img src="traffic-analysis/warped.png" alt="Warped Stream" height="100"> &nbsp; <img src="traffic-analysis/masked.png" alt="Masked Stream" height="100"> &nbsp; <img src="traffic-analysis/filtered.png" alt="Filtered Stream" height="100"> &nbsp; <img src="traffic-analysis/tracked.png" alt="Tracked Stream" height="100">
+</p>
 
 - Real-time video processing
 - Homography transform
@@ -73,7 +83,11 @@ Traffic Analysis Computer Vision Project &nbsp; [<img src="https://upload.wikime
 
 Sokoban Solver LEGO Mindstorms &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Font_Awesome_5_brands_youtube-square.svg" alt="Video" height="20"/>](https://www.youtube.com/watch?v=Q1BFzPb1I8g) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Sokoban-AI-Semester-Project)
 
-[![Sokoban Project Video](https://img.youtube.com/vi/Q1BFzPb1I8g/0.jpg)](https://www.youtube.com/watch?v=Q1BFzPb1I8g)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Q1BFzPb1I8g">
+    <img src="https://img.youtube.com/vi/Q1BFzPb1I8g/0.jpg" alt="Sokoban Project Video" height="200"/>
+  </a>
+</p>
 
 - Controller with sensor feedback, Python
 - Optimal path planning, A*, C++
