@@ -76,6 +76,8 @@ Sokoban Solver LEGO Mindstorms &nbsp; [<img src="https://upload.wikimedia.org/wi
 
 Ludo AI Player &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Ludo-AI-Project)
 
+<img src="ludo/game-board.png" alt="Simulation Visualization" height="200"/>
+
 - Fully connect neural network implementation in Python
 - Reinforcement learning in simulated matches against other artificial participants
 
