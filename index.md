@@ -103,7 +103,13 @@ Drone Swarm Alignment Project &nbsp; [<img src="https://upload.wikimedia.org/wik
 
 ---
 
-[Game: Dodge The Creeps](DodgeTheCreeps/DodgeTheCreeps.html)
+Dodge The Creeps &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Video_game_controller_icon_designed_by_Maico_Amorim.svg" alt="Play" height="20"/>](DodgeTheCreeps/DodgeTheCreeps.html)
+
+[<img src="DodgeTheCreeps/dodge-the-creeps.png" alt="Game" height="200"/>](DodgeTheCreeps/DodgeTheCreeps.html)
+
+- Simple browser/mobile game
+- Made in Godot
+- Motion, Animation, Music, Sound FX, Enemies, Score
 
 ---
 
