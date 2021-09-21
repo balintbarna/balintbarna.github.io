@@ -26,7 +26,16 @@ Micro Mouse Challenge (with [video](https://www.youtube.com/watch?v=AxU2bBOCruU)
 
 ---
 
-Robotics and Computer Vision Semester Project ([]())
+Robotics and Computer Vision Semester Project ([source](https://github.com/balintmaci/Robotics-and-Computer-Vision-Semester-Project))
+
+- Simulated workcell with robot, camera, passive objects
+- 2D -> 3D pose estimation using RGB template matching
+- 3D pose estimation using point cloud from depth sensor
+- Reachability optimization
+- Point-to-Point interpolation
+- Parabolic blend interpolation
+- Path planning RRT Connect
+- Integration with GUI plugin
 
 ---
 
