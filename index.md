@@ -4,7 +4,7 @@
 &nbsp;
 [<img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="My LinkedIn" width="30"/>](https://www.linkedin.com/in/balintbarna/)
 &nbsp;
-[📧](mailto:balint@kovari.cc)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Email" width="30"/>](mailto:balint@kovari.cc)
 
 My name is Bálint, I'm an Engineer with a focus on Robotics. I develop software × hardware solutions for industrial, mobile, and aerial robotics. See visualization:
 
