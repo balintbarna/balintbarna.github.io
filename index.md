@@ -3,6 +3,8 @@
 [<img src="https://github.githubassets.com/favicons/favicon.png" alt="My repositories" width="30"/>](https://github.com/balintmaci?tab=repositories)
 &nbsp;
 [<img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="My LinkedIn" width="30"/>](https://www.linkedin.com/in/balintbarna/)
+&nbsp;
+[📧](mailto:balint@kovari.cc)
 
 My name is Bálint, I'm an Engineer with a focus on Robotics. I develop software × hardware solutions for industrial, mobile, and aerial robotics. See visualization:
 
