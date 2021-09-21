@@ -78,6 +78,13 @@ Ludo AI Player &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/
 
 - Fully connect neural network implementation in Python
 - Reinforcement learning in simulated matches against other artificial participants
+
+---
+
+[Game: Dodge The Creeps](DodgeTheCreeps/DodgeTheCreeps.html)
+
+---
+
 Cryptograhpy Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Cryptography-Challenge)
 
 ![Cryptopals Challenge Illustration](https://laconicwolf.com/wp-content/uploads/2018/05/cryptopals_challenge_6_001.png)
@@ -85,10 +92,6 @@ Cryptograhpy Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/
 - Examples for encryption
 - Examples on breaking them
 - C#.NET
-
----
-
-[Game: Dodge The Creeps](DodgeTheCreeps/DodgeTheCreeps.html)
 
 ## Skills
 
