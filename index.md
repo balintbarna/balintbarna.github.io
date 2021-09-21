@@ -30,6 +30,20 @@ Micro Mouse Challenge (with [video](https://www.youtube.com/watch?v=AxU2bBOCruU)
 
 ---
 
+Robotics and Computer Vision Semester Project ([]())
+
+---
+
+Cryptograhpy Challenge ([source](https://github.com/balintmaci/Cryptography-Challenge))
+
+![Cryptopals Challenge Illustration](https://laconicwolf.com/wp-content/uploads/2018/05/cryptopals_challenge_6_001.png)
+
+- Examples for encryption
+- Examples on breaking them
+- C#.NET
+
+---
+
 [Game: Dodge The Creeps](DodgeTheCreeps/DodgeTheCreeps.html)
 
 ## Skills
