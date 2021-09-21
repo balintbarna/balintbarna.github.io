@@ -65,7 +65,7 @@ Traffic Analysis Computer Vision Project &nbsp; [<img src="https://upload.wikime
 
 ---
 
-Cryptograhpy Challenge ([source](https://github.com/balintmaci/Cryptography-Challenge))
+Cryptograhpy Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Cryptography-Challenge)
 
 ![Cryptopals Challenge Illustration](https://laconicwolf.com/wp-content/uploads/2018/05/cryptopals_challenge_6_001.png)
 
