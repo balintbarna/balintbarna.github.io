@@ -26,7 +26,7 @@ Micro Mouse Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/c
 
 ---
 
-Robotics and Computer Vision Semester Project ([source](https://github.com/balintmaci/Robotics-and-Computer-Vision-Semester-Project))
+Robotics and Computer Vision Semester Project &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Robotics-and-Computer-Vision-Semester-Project)
 
 - Simulated workcell with robot, camera, passive objects  
   <img src="rovi/overview.png" alt="Project Overview" height="150"/>
