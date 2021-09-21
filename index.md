@@ -82,7 +82,9 @@ Sokoban Solver LEGO Mindstorms &nbsp; [<img src="https://upload.wikimedia.org/wi
 
 Ludo AI Player &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Ludo-AI-Project)
 
-<img src="ludo/game-board.png" alt="Simulation Visualization" height="200"/>
+<p align="center">
+  <img src="ludo/game-board.png" alt="Simulation Visualization" height="200"/>
+</p>
 
 - Fully connect neural network implementation in Python
 - Reinforcement learning in simulated matches against other artificial participants
@@ -91,7 +93,9 @@ Ludo AI Player &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/
 
 Drone Swarm Alignment Project &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Collaborative-Drone-System-Node)
 
-<img src="swarm/drones.png" alt="Swarm Alignment" height="200"/>
+<p align="center">
+  <img src="swarm/drones.png" alt="Swarm Alignment" height="200"/>
+</p>
 
 - ROS, PX4, MAVROS, Python
 - Gazebo simulation
@@ -101,7 +105,11 @@ Drone Swarm Alignment Project &nbsp; [<img src="https://upload.wikimedia.org/wik
 
 Dodge The Creeps &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Video_game_controller_icon_designed_by_Maico_Amorim.svg" alt="Play" height="20"/>](DodgeTheCreeps/DodgeTheCreeps.html)
 
-[<img src="DodgeTheCreeps/dodge-the-creeps.png" alt="Game" height="200"/>](DodgeTheCreeps/DodgeTheCreeps.html)
+<p align="center">
+  <a href="DodgeTheCreeps/DodgeTheCreeps.html">
+    <img src="DodgeTheCreeps/dodge-the-creeps.png" alt="Game" height="200"/>
+  </a>
+</p>
 
 - Simple browser/mobile game
 - Made in Godot
@@ -111,7 +119,9 @@ Dodge The Creeps &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/common
 
 Cryptograhpy Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Cryptography-Challenge)
 
-![Cryptopals Challenge Illustration](https://laconicwolf.com/wp-content/uploads/2018/05/cryptopals_challenge_6_001.png)
+<p align="center">
+  <img src="https://laconicwolf.com/wp-content/uploads/2018/05/cryptopals_challenge_6_001.png" alt="Cryptopals Challenge Illustration" height="200"/>
+</p>
 
 - Examples for encryption
 - Examples on breaking them
