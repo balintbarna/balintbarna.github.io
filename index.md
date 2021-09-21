@@ -29,14 +29,18 @@ Micro Mouse Challenge (with [video](https://www.youtube.com/watch?v=AxU2bBOCruU)
 Robotics and Computer Vision Semester Project ([source](https://github.com/balintmaci/Robotics-and-Computer-Vision-Semester-Project))
 
 - Simulated workcell with robot, camera, passive objects  
-  <img src="rovi/overview.png" alt="Project Overview" width="200"/>
+  <img src="rovi/overview.png" alt="Project Overview" height="150"/>
 - 2D -> 3D pose estimation using RGB template matching  
-  <img src="rovi/template-matching.png" alt="Template Matching" width="200"/>
+  <img src="rovi/template-matching.png" alt="Template Matching" height="150"/>
 - 3D pose estimation using point cloud from depth sensor  
   <img src="rovi/pointcloud.png" alt="Point Cloud" height="150"/>
   <img src="rovi/filtered-cloud-matching.png" alt="Filtered Cloud Matching" height="150"/>
-- Path planning RRT Connect  
-  <img src="rovi/rrt-path.png" alt="RRT Path Planning" width="200"/>
+- Benchmarking artificial noise profiles  
+  <img src="rovi/pc-noisy.png" alt="Noisy Point Cloud" height="150"/>
+  <img src="rovi/pc-noisy-match.png" alt="Noisy Cloud Matching" height="150"/>
+- Path planning using RRT Connect, optimization  
+  <img src="rovi/rrt-path.png" alt="RRT Path Planning" height="150">
+  <img src="rovi/rrt-opt.png" alt="RRT Path Optimization" height="150"/>
 - Interpolation
 - Reachability optimization
 - Integration with user interface
