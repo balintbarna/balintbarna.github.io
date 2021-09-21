@@ -35,8 +35,7 @@ Robotics and Computer Vision Semester Project ([source](https://github.com/balin
 - Point-to-Point interpolation
 - Parabolic blend interpolation
 - Path planning RRT Connect
-- Integration with GUI plugin
-
+- Integration with user interface
 ---
 
 Cryptograhpy Challenge ([source](https://github.com/balintmaci/Cryptography-Challenge))
