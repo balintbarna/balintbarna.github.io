@@ -145,7 +145,7 @@ Cryptograhpy Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/
 
 Robotics × System Architecture × Software Development × Engineering  
 Control Systems × Automation × Computer Vision × Deep Learning × FPGA  
-ROS × PX4 × Linux × Arduino × Embedded Systems × Git × Cmake × OpenCV × Godot × Node.js × Angular × Vivado/HLS  
+ROS × PX4 × Linux × Arduino × Embedded Systems × Git × CMake × OpenCV × Godot × Node.js × Angular × Vivado/HLS  
 Python × C++ × TypeScript × Java × C# × GDScript × Juypter × Javascript × VHDL
 
 ## Experience
