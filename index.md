@@ -128,7 +128,7 @@ Dodge The Creeps &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/common
 Cryptograhpy Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Cryptography-Challenge)
 
 <p align="center">
-  <img src="https://laconicwolf.com/wp-content/uploads/2018/05/cryptopals_challenge_6_001.png" alt="Cryptopals Challenge Illustration" height="200"/>
+  <img src="crypto/crypto.png" alt="Cryptopals Challenge Illustration" height="200"/>
 </p>
 
 - Examples for encryption
