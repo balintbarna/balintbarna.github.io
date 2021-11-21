@@ -13,6 +13,7 @@ Autonomous Drone Landing Using Vision &nbsp; [<img src="https://upload.wikimedia
   </a>
 </p>
 
+- Complex software architecture
 - ROS, PX4, DPU, PYNQ, ZMQ, Python, Jupyter
 - Deep Neural Network object detection
 - Visual servo using image recognition
@@ -30,6 +31,7 @@ Micro Mouse Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/c
   </a>
 </p>
 
+- Complex software architecture
 - Custom 3D printed parts, custom PCB, Teensy MCU
 - DC motors × MOSFET PWM control
 - Bluetooth debugging
