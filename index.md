@@ -140,6 +140,7 @@ Cryptograhpy Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/
 
 Other Projects
 
+- Webstore configuration and related applications for retail
 - [Marker based autonomous drone landing in simulation](https://github.com/balintmaci/Pumpkin-Counter)
 - [Drone footage computer vision pumpkin counter](https://github.com/balintmaci/Pumpkin-Counter)
 - [OcTree generator with data payload, full custom implementation](https://github.com/balintmaci/Octree-Generator)
@@ -150,3 +151,4 @@ Other Projects
 - Automated PowerPoint presentation, C#.NET
 - [Scripts for advanced Windows Speech Recognition Macros](https://github.com/balintmaci/Sample-Windows-Speech-Recognition-Macros)
 - [FPGA controlled battery charger](https://github.com/balintmaci/FPGA-Battery-Charger-Robot-Electronics-Semester-Project)
+- Motorized stereo camera setup
