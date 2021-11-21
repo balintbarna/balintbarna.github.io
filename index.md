@@ -18,6 +18,7 @@ Autonomous Drone Landing Using Vision &nbsp; [<img src="https://upload.wikimedia
 - Visual servo using image recognition
 - Computation accelerated with low power FPGA
 - All computation onboard, standalone autonomous operation
+- [IEEE Publication](https://findresearcher.sdu.dk:8443/ws/portalfiles/portal/191669888/MPDrone_CR.pdf)
 
 ---
 
