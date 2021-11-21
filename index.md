@@ -1,6 +1,6 @@
 # Balint's Portfolio &nbsp; [<img src="https://github.githubassets.com/favicons/favicon.png" alt="My repositories" height="30"/>](https://github.com/balintmaci?tab=repositories) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Linkedin_circle.svg" alt="My LinkedIn" height="30"/>](https://www.linkedin.com/in/balintbarna/) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Email" height="30"/>](mailto:balint@kovari.cc)
 
-My name is Balint, I'm an Engineer with an MS in Robotics. I develop software solutions for industrial, mobile, and aerial robotics, as well as the web, the cloud, the desktop, and embedded platforms. Skills in robotics, software, distributed computing, and more.
+Here you can find some of my projects, a list curated by me, for you. Please notice the clickable icons for all my open source repositories, my LinkedIn page, my e-mail address, several project videos, publications, and more sources. The list contains several interesting projects visualized via video, still images, or even interactive demo. In addition to the visualization, the bullet points summarize the main features of each project in a concise manner. At the end of the list, there is a short collection of runner ups. Without further ado, please enjoy.
 
 
 ## Projects
