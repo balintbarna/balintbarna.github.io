@@ -136,28 +136,17 @@ Cryptograhpy Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/
 - Examples on breaking them
 - C#.NET
 
-## Skills
+---
 
-Robotics × System Architecture × Software Development × Engineering  
-Control Systems × Automation × Computer Vision × Deep Learning × FPGA  
-ROS × PX4 × Linux × Arduino × Embedded Systems × Git × CMake × OpenCV × Godot × Node.js × Angular × Vivado/HLS  
-Python × C++ × TypeScript × Java × C# × GDScript × Juypter × Javascript × VHDL
+Other Projects
 
-## Experience
-
-- 4 years @ OnRobot
-  - Planning software architecture
-  - Development of software components for robotic tools
-    - Control software
-    - Communication software
-    - User interaction software
-- 2 years as a freelance engineer
-  - Working with various companies as clients
-  - Embedded software
-  - Mechanical engineering
-  - Web based solutions
-
-## Education
-
-- MSc in Robotics from SDU, Denmark
-- BSc in Mechatronics from BME, Hungary
+- [Marker based autonomous drone landing in simulation](https://github.com/balintmaci/Pumpkin-Counter)
+- [Drone footage computer vision pumpkin counter](https://github.com/balintmaci/Pumpkin-Counter)
+- [OcTree generator with data payload, full custom implementation](https://github.com/balintmaci/Octree-Generator)
+- [3D FPS game in Godot engine](https://github.com/balintmaci/FPS-Game-Godot-Tutorial)
+- [Python based automated video player](https://github.com/balintmaci/Python-Video-Player)
+- [Python Django web service](https://github.com/balintmaci/django-data-query)
+- [Python Kivy GUI app](https://github.com/balintmaci/Python-Gui-App)
+- Automated PowerPoint presentation, C#.NET
+- [Scripts for advanced Windows Speech Recognition Macros](https://github.com/balintmaci/Sample-Windows-Speech-Recognition-Macros)
+- [FPGA controlled battery charger](https://github.com/balintmaci/FPGA-Battery-Charger-Robot-Electronics-Semester-Project)
