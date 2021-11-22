@@ -23,11 +23,31 @@ Autonomous Drone Landing Using Vision &nbsp; [<img src="https://upload.wikimedia
 
 ---
 
-Full Stack Web App for robotics project
+Core Software for Robotics
 
-- Angular, Express, Node, Typescript
+- C++/Python stack
+- High performance robot control
+- Sensor data processing
+- Communication stack, network and embedded
+
+---
+
+Java/Swing/URCap App for Robotics
+
+- API integration for UR robots
+- Communication with robot/devices
+- Data handling
+- Swing GUIs
+- Modular system structure
+
+---
+
+Full Stack Web App for Robotics
+
+- Angular, Express, Node.js, Typescript
 - Large-scale modular application
-- Supervision of robotics/embedded devices
+- Supervision and control of robotics/embedded devices
+- Geometrical applications and calculations
 
 ---
 
