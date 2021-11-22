@@ -23,6 +23,14 @@ Autonomous Drone Landing Using Vision &nbsp; [<img src="https://upload.wikimedia
 
 ---
 
+Full Stack Web App for robotics project
+
+- Angular, Express, Node, Typescript
+- Large-scale modular application
+- Supervision of robotics/embedded devices
+
+---
+
 Micro Mouse Challenge &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Font_Awesome_5_brands_youtube-square.svg" alt="Video" height="20"/>](https://www.youtube.com/watch?v=AxU2bBOCruU) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PICOL_icon_Source_code.svg" alt="Source" height="20"/>](https://github.com/balintmaci/Micro-Mouse-Competition)
 
 <p align="center">
